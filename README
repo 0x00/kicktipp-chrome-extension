@@ -3,7 +3,6 @@ This Chrome extension places your predictions on kicktipp.de.
 There are several strategies available:
 Random
 
-
 Install: 
 1. Start chrome -> Tools -> Extensions -> hit on the '+' for enabling the developer mode.
 2. Load extension via the first button
